@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb Jesusegun</h1>
-<h4 align="center">A Mobile Engineer | Product Designer | Technical Writer | Blockchain Enthusiast </h4>
+<h3 align="center">A Mobile Engineer | Product Designer | Technical Writer | Blockchain Enthusiast </h3>
 
 - 🔭 I’m currently building **Civic24**
 
