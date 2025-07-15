@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Caleb Jesusegun</h1>
 <h3 align="center">A Mobile Engineer | Product Designer | Technical Writer | Blockchain Enthusiast </h3>
 
-- 🔭 I’m currently building **Civic24**
+- 🔭 I’m currently building [**Civic24**](https://github.com/Civic24HQ/civic24)
 
 - 🌱 I do magic with **Flutter(Dart)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/calebjesusegun](https://github.com/calebjesusegun)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** and **Blockchain**
 
 - 📫 How to reach me **jesuseguncaleb@gmail.com**
 
-- ⚡ Fun fact **I love Hip-Hop**
+- ⚡ Fun fact **I am a CHH Rapper who loves Hip-Hop** 😃😃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
